@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"Well, hello there!"
+
+"Hey ya"
+
+"How you doin'?"
