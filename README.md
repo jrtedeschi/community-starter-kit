@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This repo is intended to serve as a guide of good practices in GitHub.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It displays how a good structured project may look like, for future reference.
 
 ## Getting started
 
